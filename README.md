@@ -1,2 +1,2 @@
-# qrAttendy
-Package version based on Secure-QR-Attendance-System repo
+# qrAttendy Archives
+Every version of QR Attendy that has saved here
